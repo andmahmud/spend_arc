@@ -130,20 +130,8 @@ lib/
 ├── features/
 │   └── spend_arc/
 │       ├── data/
-│       │   ├── models/
-│       │   ├── datasources/
-│       │   └── repositories/
-│       │
 │       ├── domain/
-│       │   ├── entities/
-│       │   ├── repositories/
-│       │   └── usecases/
-│       │
-│       ├── presentation/
-│       │   ├── bloc/
-│       │   ├── pages/
-│       │   ├── widgets/
-│       │   └── animations/
+│       └── presentation/
 │
 ├── app.dart
 └── main.dart
